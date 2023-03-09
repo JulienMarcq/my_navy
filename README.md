@@ -1,5 +1,5 @@
 # my_navy
-{ Epitech Project }      my_navy 
+{ Epitech Project }      my_navy
 
 The goal of the project is to create a naval battle game with two terminals using signal communication.
 
